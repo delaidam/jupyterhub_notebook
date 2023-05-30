@@ -1,0 +1,9 @@
+JUPYTERHUB_IP=127.0.0.1
+JUPYTERHUB_PORT=8000
+JUPYTERHUB_DATA=/home/ubuntu/jupyter_hub/data # update folder path
+JUPYTERHUB_USERS_HOME=/home/ubuntu/jupyter_hub/home # update folder path
+
+ADMIN_USERS=
+OAUTH_CALLBACK_URL=
+OAUTH_CLIENT_ID=
+OAUTH_CLIENT_SECRET=
